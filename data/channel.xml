@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<channels>
+	<channel name='RCTI'>
+		<url>rcti</url>
+		<title>RCTI</title>
+		<description>Watch RCTI Live Streaming</description>
+		<keywords>Watch RCTI Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://idr.dokitv.com/ch/rcti.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='Global TV'>
+		<url>globaltv</url>
+		<title>Global TV</title>
+		<description>Watch Global TV Live Streaming</description>
+		<keywords>Watch Global TV Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://live.metube.id/tv/channel2000041/index1024.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='MNC TV'>
+		<url>mnctv</url>
+		<title>MNC TV</title>
+		<description>Watch MNC TV Live Streaming</description>
+		<keywords>Watch MNC TV Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://live.metube.id/tv/channel2000022/index512.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='ANTV'>
+		<url>antv</url>
+		<title>ANTV</title>
+		<description>Watch ANTV Live Streaming</description>
+		<keywords>Watch AMTV Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>rtmpe://173.192.103.55:1935/live/ytjyyjjyjyttyjtyjjyt18</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='Indosiar'>
+		<url>indosiar</url>
+		<title>Indosiar</title>
+		<description>Watch Indosiar Live Streaming</description>
+		<keywords>Watch Indosiar Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://80.82.78.184:8081/hls10/thrthrhtrhtrthrhtrththr18-51730.ts</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='Kompas Tv'>
+		<url>kompastv</url>
+		<title>Kompas Tv</title>
+		<description>Watch Kompas Tv Live Streaming</description>
+		<keywords>Watch Kompas Tv Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://202.137.11.52/jakarta/offair.sdp/playlist.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='Metro '>
+		<url>metrotv</url>
+		<title>Metro TV</title>
+		<description>Watch Metro TV Live Streaming</description>
+		<keywords>Watch Metro TV Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://103.225.66.100:1935/live-edge/smil:metro.smil/chunklist_w288135151_b500000_sleng.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='mivo'>
+		<url>mivo</url>
+		<title>MIVO</title>
+		<description>Watch MIVO Live Streaming</description>
+		<keywords>Watch MIVO Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://103.18.239.131/kqcsmbqna6yg/mivotv_all/kqcsmbqna6yg/mivotv_480p/chunks.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='Net TV'>
+		<url>nettv</url>
+		<title>Net TV</title>
+		<description>Watch Net TV Live Streaming</description>
+		<keywords>Watch Net TV Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_480p/chunks.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='RTV'>
+		<url>rtv</url>
+		<title>RTV</title>
+		<description>Watch RTV Live Streaming</description>
+		<keywords>Watch RTV Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://103.18.239.130/kqcsmbqna6yg/rajawalitv.stream_all/kqcsmbqna6yg/rajawalitv.stream_192p/chunks.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='SCTV'>
+		<url>sctv</url>
+		<title>SCTV</title>
+		<description>Watch SCTV Live Streaming</description>
+		<keywords>Watch SCTV Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://103.18.239.131/kqcsmbqna6yg/sctv2_all/kqcsmbqna6yg/sctv2_576p/chunks.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='Trans TV'>
+		<url>transtv</url>
+		<title>Trans TV</title>
+		<description>Watch Trans TV Live Streaming</description>
+		<keywords>Watch Trans TV Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://edge.nim.mivo.tv/kqcsmbqna6yg/transtv2_240p/chunks.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='Trans 7'>
+		<url>trans7</url>
+		<title>Trans 7</title>
+		<description>Watch Trans 7 Live Streaming</description>
+		<keywords>Watch Trans 7 Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_240p/chunks.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+	<channel name='TV One'>
+		<url>tvone</url>
+		<title>TV One</title>
+		<description>Watch TV One Live Streaming</description>
+		<keywords>Watch TV One Live Streaming</keywords>
+		<category>Indonesia</category>
+		<stream>http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_240p/chunks.m3u8</stream>
+		<body>Kami menyediakan berbagai channel Televisi dari Indonesia. Perlu diketahui kami bukanlah penyedia stream channel resmi, kami hanya mempermudah pengguna untuk menemukan berbagai channel televisi yang ada di Indonesia secara sederhana yang telah kami rangung di website ini. Jika terjadi gangguan pada channel hal itu bukanlah kesalahan website ini melainkan dikarenakan server utama atau official yang sedang bermasalah. Reload / reresh halaman jika mengalami gangguan.</body>
+	</channel>
+</channels>
