@@ -1,0 +1,19 @@
+Options -Indexes
+Options +FollowSymLinks
+
+RewriteEngine On
+
+DirectoryIndex Index.php
+
+#<files .htaccess>
+#  order allow,deny
+#  deny from all
+#</files>
+
+#RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
+#RewriteRule .* – [F,L]
+
+#Content View
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/?$ Index.php?url=$1 [NC,L]
